@@ -1,1 +1,2 @@
-"Gareth Starratt" 
+Gareth Starratt
+starratg@oregonstate.edu
